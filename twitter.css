@@ -1,0 +1,12 @@
+.following {
+    border:#cfd9de solid 2px;
+    font-size:20px;
+    color:#0f1419;
+    border-radius:20px;
+    padding-left:15px;
+    font-weight:bold;
+    background:white;
+    padding-right:15px;
+    padding-top:5px;
+    padding-bottom:5px;
+}
